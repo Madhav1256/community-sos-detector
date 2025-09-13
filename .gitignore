@@ -1,0 +1,15 @@
+# Virtual Environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables (secrets)
+.env
+
+# Generated output files
+dashboard/alerts.json
+
+# Temporary diagnostic files
+test_env.py
